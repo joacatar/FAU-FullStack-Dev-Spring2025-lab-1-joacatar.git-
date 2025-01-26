@@ -26,7 +26,7 @@ const Calendar = () => {
                     <td></td>
                     <td></td>
                     <Event event='Sightseeing' color="blue"/>
-                    <td></td>
+                    <Event event='Breakfast' color="green"/>
                 </tr>
                 <tr>
                     <td className="time">9 am</td>
